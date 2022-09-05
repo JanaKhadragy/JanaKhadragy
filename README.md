@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JanaKhadragy
-- 👀 I’m interested in web evelopment
+- 👀 I’m interested in web development & coding in general
 - 📚 I’m currently learning CSS & Javascript
 - 📫 How to reach me janakhadragy@gmail.com
 
