@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanaKhadragy
-- 👀 I’m interested in web development & coding in general
-- 📚 I’m currently learning CSS & Javascript
+- 👀 I’m interested in web development & cybersecurity 
+- 📚 I’m currently Java & Networks
 - 📫 How to reach me janakhadragy@gmail.com
 
 <!---
